@@ -1,14 +1,11 @@
 canonical_identifier: bkk:krp/KR6q0518/j/v1/juan/0
 seq: 0
-front:
+body:
   text: 華巖還初佛禪師語錄目次敘卷上上堂小參茶話卷下機緣入室拈古頌古雜偈佛事敘我宗無語句亦無一法興人何假于語言文句哉從上諸祖出世教人提持正眼扶豎綱宗末學初機朝參暮請不得已而漏逗一言半句曲為今時日久歲深遂爾葛藤遍地然而咸有於語言下知歸者故語之不可不錄也還初法兄幼未業儒不識文字戒得雲峰禪參昭覺末到華巖始與本師鍼芥相投水乳相合遂首眾服勤一十五載了無異志焉甲子歲值本師有剃師禮塔之行命代主華嚴法席渝城鎮府王公遣官馳供請就院開爐卻之不得乃從焉蓋其開口不涉文字單提向上正眼示人的的自胸襟中貼體流出所以無雕奇鑒玅之句純是一味老實頭禪眾中有感慕者從傍竊記之久而盈帙故有上堂小參雜錄咸末學初機朝參暮請契會知歸語句是語之不可不錄者時康熙乙丑年余月价南慧仙題于多子山之慈雲禪院
   hash: sha256:4fca977af58fc8ffb511e55a17b71bdd623aa2e52922d49ba68976df45800335
   markers:
   - {type: 其他, offset: 0, content: 目次, id: KR6q0518_J_000-mulu-1, level: '1'}
   - {type: 其他, offset: 34, content: 敘, id: KR6q0518_J_000-mulu-2, level: '1'}
-body:
-  text: ''
-  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
 metadata:
   title: 華巖還初佛禪師語錄
   edition:
@@ -17,4 +14,4 @@ metadata:
     repository: cbeta
     path: /home/chris/src/xml-p5/J/J37/J37nB393.xml
     old_id: J37nB393
-hash: sha256:de10e16d14e413db918f0ee7bbbe545b20ca46326146349821bd71029a3ba504
+hash: sha256:b7616a6ba9d21b0057734ef2cc4ff43ba6eef9e2af76386769ed8490681dbafc

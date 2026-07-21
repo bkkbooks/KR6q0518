@@ -19,11 +19,11 @@ metadata:
     short: J
 assets:
   parts:
-  - {seq: 0, filename: KR6q0518_000-J.yaml, hash: 'sha256:de10e16d14e413db918f0ee7bbbe545b20ca46326146349821bd71029a3ba504'}
+  - {seq: 0, filename: KR6q0518_000-J.yaml, hash: 'sha256:b7616a6ba9d21b0057734ef2cc4ff43ba6eef9e2af76386769ed8490681dbafc'}
   - {seq: 1, filename: KR6q0518_001-J.yaml, hash: 'sha256:1fa300cf3084773548e5d42b5afca7a5bb96ee4760f3dc4eedd61fdad54a2702'}
   - {seq: 2, filename: KR6q0518_002-J.yaml, hash: 'sha256:7925b78441e735442911e018371fa7ba7db3c08e07b32d55a5fd7ffad6faa1ef'}
   markers:
-  - {seq: 0, role: markers, filename: assets/KR6q0518_000-J.markers.yaml, hash: 'sha256:fb9e3ace481d2542272bcadeb34266f4b2ae1129910124fcfc5ec601453ddaae'}
+  - {seq: 0, role: markers, filename: assets/KR6q0518_000-J.markers.yaml, hash: 'sha256:4f14bf674f0ebca20837d1325252a678401e773f186f8b44755809308f18385a'}
   - {seq: 1, role: markers, filename: assets/KR6q0518_001-J.markers.yaml, hash: 'sha256:9110d95dde9b73fdd366bf4eae6487a4de403b5deed8de697a47ec8320e62a1e'}
   - {seq: 2, role: markers, filename: assets/KR6q0518_002-J.markers.yaml, hash: 'sha256:7b9de12a952d9b1f90d4223f24d22929e43eaa607de24b978296d6a79b7e64ea'}
 table_of_contents:
@@ -31,7 +31,7 @@ table_of_contents:
     seq: 0
     marker_id: KR6q0518_J_000-mulu-1
     span:
-    - front
+    - body
     - 0
     - 0
   label: 目次
@@ -41,7 +41,7 @@ table_of_contents:
     seq: 0
     marker_id: KR6q0518_J_000-mulu-2
     span:
-    - front
+    - body
     - 34
     - 34
   label: 敘
@@ -777,4 +777,4 @@ table_of_contents:
   label: 佛事
   type: mulu
   level: 1
-hash: sha256:0ceb79b0d926502451855d28ed1a71dca3978c5d9522680c070376868a3435c0
+hash: sha256:83c84143431707eab8d9a6fce9b2e542ef1ea27cd5fcc10becddaf61518ae40f
